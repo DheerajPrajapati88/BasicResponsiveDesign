@@ -111,6 +111,12 @@ html ,body{
 
 @media(max-width:500px){
 
+    .textcenter{
+        margin: 5vw 0;
+    }
+    .textcenter p{
+        width: 100%;
+    }
     .main{
         flex-direction: column;
     }
